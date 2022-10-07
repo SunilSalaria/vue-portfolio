@@ -1,6 +1,10 @@
-# vue-portfolio
+# vue-portfolio ::- Create portfolio for frontend profile for myself in vue3 with bootstrap5 + sass theming.
+==================
 
-Create portfolio for frontend profile for myself in vue3 with bootstrap5 + sass theming.
+  cd vue-portfolio-self
+  npm install
+  npm run dev
+  URL:- http://127.0.0.1:5173/
 
 Reference URL:-
 =================
