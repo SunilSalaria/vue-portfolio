@@ -1,0 +1,23 @@
+
+//== theme color override
+$theme-colors: (
+    "primary":    #1e3a5f,
+    "secondary":  #6c757d,
+    "success":    #198754,
+    "info":       #0dcaf0,
+    "warning":    #ffc107,
+    "danger":     #dc3545,
+    "light":      #f8f9fa,
+    "dark":       #212529
+  );
+
+  //== input override
+$input-focus-border-color:#1e3a5f;
+
+//== checkbox override
+$form-check-input-focus-box-shadow:none;
+$form-check-input-checked-bg-color:#1e3a5f;
+$form-check-input-checked-border-color:#1e3a5f;
+
+//== import bootstrap sass
+@import "../../../node_modules/bootstrap/scss/bootstrap";
