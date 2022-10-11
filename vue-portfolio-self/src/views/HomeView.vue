@@ -7,6 +7,11 @@
 
     <!-- right section -->
     <section class="border-line-s" id="right-section">
+        <div class="row d-flex justify-content-center">
+            <div class="col-12 col-md-8">
+                <img src="../assets/img/developer-img.jpg" class="img-fluid" alt="">
+            </div>
+        </div>
     </section>
     <!-- /right section -->
 </template>
@@ -18,12 +23,12 @@
 <!-- style -->
 <style scoped>
 #content-section {
-    width: 60%;
+    width: 65%;
     min-height: 100vh;
 }
 
 #right-section {
-    width: 40%;
+    width: 35%;
     min-height: 100vh;
 }
 </style>
