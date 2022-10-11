@@ -1,18 +1,29 @@
-<!-- script -->
-<script setup>
-
-</script>
-
 <!-- template -->
 <template>
-  <main>
- <h1>HOme</h1>
+    <!-- content section -->
+    <section id="content-section">
+    </section>
+    <!-- /content section -->
 
- <div class="text-primary display-4 fw-bold">primary text</div>
- <div class="text-danger display-4 fw-bold">primary text</div>
- <div class="text-success display-4 fw-bold">primary text</div>
-  </main>
+    <!-- right section -->
+    <section class="border-line-s" id="right-section">
+    </section>
+    <!-- /right section -->
 </template>
 
+<!-- script -->
+<script>
+
+</script>
 <!-- style -->
-<style scoped></style>
+<style scoped>
+#content-section {
+    width: 60%;
+    min-height: 100vh;
+}
+
+#right-section {
+    width: 40%;
+    min-height: 100vh;
+}
+</style>
