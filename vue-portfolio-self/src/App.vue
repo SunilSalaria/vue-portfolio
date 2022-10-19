@@ -7,7 +7,7 @@
   <!-- /header -->
 
   <!-- main -->
-  <main class="container-fluid main d-flex">
+  <main class="main flex">
     <RouterView />
   </main>
   <!-- /main -->

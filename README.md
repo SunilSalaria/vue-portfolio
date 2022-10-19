@@ -1,4 +1,4 @@
-# vue-portfolio ::- Create portfolio for frontend profile for myself in vue3 with bootstrap5 + sass theming.
+# vue-portfolio ::- Create portfolio for frontend profile for myself in vue3 + tailwindcss theming.
 
 ==================
 
@@ -14,9 +14,13 @@ URL:- http://127.0.0.1:5173/
 ** https://portfolio-webflow-html-website-template.webflow.io/#Services
 ** https://demo.cocobasic.com/teoro-wp/demo-2/
 
-# porject detail:- vue3 + bootstrap5 + sass
+# porject detail:- vue3 + tailwindcss
 
-## Sass compile:-
+https://tailwindcss.com/docs/guides/vite#vue
 
-- from root project:- sass ./src/assets/scss/main.scss ./src/assets/css/main.css
-- from assets folder:- sass scss/main.scss css/main.css
+# **\*** Typography **\*\***
+
+# dark theme:-
+
+background-color:- bg-zinc-900
+border-color:- border-zinc-500
